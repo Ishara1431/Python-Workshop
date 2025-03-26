@@ -1,1 +1,0 @@
-print("weligepola, balangoda")
